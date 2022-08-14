@@ -8,3 +8,5 @@
 AKTuminello/AKTuminello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+- Books list: (currently reading added first)
+- "How to Solve It." by George Polya.
