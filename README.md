@@ -1,4 +1,4 @@
-- 👋 Hi. I'm not new to coding but I am new to Github.
+- 👋 Hi. I'm new to coding and to Github. I wish I'd discovered both ages ago.
 - 👀 I’m interested in Python, JS, html/css, with the ultimate goal of cloud computing.
 - 🌱 Keeping my study time at high levels.
 - 💞️ I’m looking to collaborate on anything where I can add value.
